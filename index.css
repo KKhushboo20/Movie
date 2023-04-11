@@ -1,0 +1,417 @@
+.cinema-world {
+  position: relative;
+  font-weight: 500;
+}
+.svg-icon {
+  position: relative;
+  width: 13px;
+  height: 13px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.search-for-movies {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 334.9px;
+  height: 16px;
+}
+.divsc-jtzltm,
+.spansc-fcdebu {
+  background-color: var(--color-white);
+}
+.spansc-fcdebu {
+  position: relative;
+  width: 497px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.divsc-jtzltm {
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-whitesmoke-200);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-sm);
+}
+.divsc-kxyne {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkgray);
+  font-family: var(--font-roboto);
+}
+.cinema-world-parent,
+.frame-child {
+  flex-direction: row;
+  justify-content: center;
+}
+.frame-child {
+  border: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--font-size-sm);
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+}
+.cinema-world-parent {
+  gap: var(--gap-135xl);
+}
+.cinema-world-parent,
+.frame-div,
+.movies {
+  display: flex;
+  align-items: center;
+}
+.frame-div {
+  background-color: var(--color-darkslategray);
+  width: 1280px;
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-sm) var(--padding-2xl);
+  box-sizing: border-box;
+  justify-content: center;
+}
+.movies {
+  width: 45.15px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.movies,
+.stream1 {
+  position: relative;
+}
+.stream {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.activities,
+.buzz,
+.events,
+.plays,
+.sports {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 41.64px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.activities,
+.buzz,
+.plays,
+.sports {
+  width: 33.81px;
+}
+.activities,
+.buzz,
+.sports {
+  width: 41.26px;
+}
+.activities,
+.buzz {
+  width: 57.47px;
+}
+.buzz {
+  width: 30.54px;
+}
+.movies-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-3xs);
+  z-index: 0;
+}
+.new {
+  position: absolute;
+  margin: 0 !important;
+  top: 4px;
+  left: 554px;
+  font-size: var(--font-size-5xs);
+  font-weight: 500;
+  color: var(--color-crimson-200);
+  z-index: 1;
+}
+.frame-parent1,
+.frame-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+.frame-parent1 {
+  background-color: var(--color-gray-200);
+  width: 1280px;
+  height: 42px;
+  flex-shrink: 0;
+  overflow: hidden;
+  padding: var(--padding-sm) var(--padding-2xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-roboto);
+}
+.frame-wrapper {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recommended-movies {
+  position: relative;
+  line-height: 28.08px;
+  display: flex;
+  align-items: center;
+  width: 246.76px;
+  height: 28px;
+  flex-shrink: 0;
+}
+.et00326977-dcqkxxhyhq-portrait-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.divsc-133848s-2 {
+  position: relative;
+  border-radius: var(--br-5xs);
+  width: 222.39px;
+  height: 378.06px;
+  flex-shrink: 0;
+  overflow: hidden;
+  z-index: 1;
+}
+.bholaa {
+  position: relative;
+  line-height: 23.94px;
+  font-weight: 500;
+}
+.divsc-7o7nez-0 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.actiondramathriller {
+  position: relative;
+  line-height: 24px;
+}
+.divsc-133848s-31,
+.divsc-7o7nez-01 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divsc-7o7nez-01 {
+  overflow: hidden;
+  flex-direction: row;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray);
+}
+.divsc-133848s-31 {
+  padding: var(--padding-9xs) 66.390625px var(--padding-0) var(--padding-0);
+}
+.divsc-133848s-31,
+.divsc-133848s-32,
+.divsc-133848s-33 {
+  flex-direction: column;
+  gap: 3.94px;
+  z-index: 0;
+}
+.divsc-133848s-32 {
+  display: flex;
+  padding: var(--padding-9xs) 43.390625px var(--padding-0) var(--padding-0);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divsc-133848s-33 {
+  padding: var(--padding-9xs) 50.390625px var(--padding-0) var(--padding-0);
+}
+.divsc-133848s-33,
+.divsc-133848s-34,
+.divsc-133848s-35,
+.divsc-7o7nez-06 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divsc-7o7nez-06 {
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-0) 0.0625px var(--padding-0) var(--padding-0);
+}
+.divsc-133848s-34,
+.divsc-133848s-35 {
+  flex-direction: column;
+  padding: var(--padding-9xs) 17.328125px var(--padding-0) var(--padding-0);
+  gap: 3.94px;
+  z-index: 0;
+}
+.divsc-133848s-35 {
+  padding: var(--padding-9xs) 6.390625px var(--padding-0) var(--padding-0);
+}
+.divsc-lnhrs7-2 {
+  flex-direction: row;
+  padding: var(--padding-0) 0.046875px var(--padding-0) var(--padding-0);
+  gap: var(--gap-13xl);
+}
+.divsc-133848s-3,
+.divsc-lnhrs7-1,
+.divsc-lnhrs7-2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divsc-lnhrs7-1 {
+  overflow: hidden;
+  flex-direction: row;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+}
+.divsc-133848s-3 {
+  flex-direction: column;
+  gap: var(--gap-5xs);
+}
+.the-best-of {
+  position: relative;
+  line-height: 28.08px;
+  display: flex;
+  align-items: center;
+  width: 255.62px;
+  height: 28px;
+  flex-shrink: 0;
+}
+.divsc-133848s-25 {
+  position: relative;
+  border-radius: var(--br-5xs);
+  width: 222.39px;
+  height: 222.39px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.divsc-133848s-3-parent,
+.divsc-lnhrs7-0 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divsc-133848s-3-parent {
+  flex-direction: column;
+  gap: var(--gap-41xl);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-roboto);
+}
+.frame-item {
+  position: relative;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 417px;
+  height: 1px;
+  flex-shrink: 0;
+}
+.logo {
+  position: relative;
+  line-height: 19px;
+}
+.line-parent,
+.logosvg {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.logosvg {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  padding: var(--padding-9xs) var(--padding-xl);
+  align-items: flex-start;
+}
+.line-parent {
+  align-items: center;
+  gap: var(--gap-base);
+}
+.svg-icon1 {
+  position: relative;
+  width: 37px;
+  height: 37px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.svg-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.the-content-and {
+  margin: 0;
+}
+.copyright-2023-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.copyright-2023-container {
+  position: relative;
+  font-size: var(--font-size-2xs);
+  color: var(--color-dimgray);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  width: 971px;
+}
+.frame-parent2 {
+  align-self: stretch;
+  border: 1px solid var(--color-black);
+  padding: var(--padding-xl) var(--padding-0);
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+.frame-parent,
+.frame-parent2,
+.macbook-air-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.frame-parent {
+  justify-content: flex-start;
+  gap: var(--gap-41xl);
+}
+.macbook-air-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  overflow: hidden;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
