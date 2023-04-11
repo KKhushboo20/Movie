@@ -1,0 +1,696 @@
+.cinema-world2 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  text-align: center;
+}
+.svg-icon19 {
+  position: relative;
+  width: 13px;
+  height: 13px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.search-for-movies2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 334.9px;
+  height: 16px;
+}
+.divsc-jtzltm2,
+.spansc-fcdebu2 {
+  background-color: var(--color-white);
+}
+.spansc-fcdebu2 {
+  position: relative;
+  width: 497px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.divsc-jtzltm2 {
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-whitesmoke-200);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xs);
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-sm);
+}
+.divsc-kxyne2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-darkgray);
+}
+.haridwar1 {
+  position: relative;
+  line-height: 19px;
+}
+.spansc-kzmsyb-item {
+  position: relative;
+  width: 13.41px;
+  height: 8.12px;
+  flex-shrink: 0;
+}
+.sign-in1,
+.spansc-kzmsyb1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.spansc-kzmsyb1 {
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-0) var(--padding-11xs);
+  gap: var(--gap-9xs);
+}
+.sign-in1 {
+  position: absolute;
+  top: 6px;
+  left: 15.53px;
+  line-height: 25px;
+  width: 36.14px;
+  height: 14px;
+}
+.divsc-fqejpq1,
+.svg-icon20 {
+  position: relative;
+  flex-shrink: 0;
+}
+.divsc-fqejpq1 {
+  border-radius: var(--br-9xs);
+  background-color: var(--color-goldenrod);
+  width: 67px;
+  height: 25px;
+  text-align: center;
+  font-size: var(--font-size-xs);
+}
+.svg-icon20 {
+  width: 22px;
+  height: 14px;
+  overflow: hidden;
+}
+.spansc-kzmsyb-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.cinema-world-container {
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-135xl);
+}
+.cinema-world-container,
+.frame-wrapper8,
+.movies2 {
+  display: flex;
+  align-items: center;
+}
+.frame-wrapper8 {
+  background-color: var(--color-darkslategray);
+  width: 1280px;
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-sm) var(--padding-2xl);
+  box-sizing: border-box;
+  justify-content: center;
+}
+.movies2 {
+  width: 45.15px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.movies2,
+.stream5 {
+  position: relative;
+}
+.activities2,
+.buzz2,
+.events2,
+.plays2,
+.sports2 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 41.64px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.activities2,
+.buzz2,
+.plays2,
+.sports2 {
+  width: 33.81px;
+}
+.activities2,
+.buzz2,
+.sports2 {
+  width: 41.26px;
+}
+.activities2,
+.buzz2 {
+  width: 57.47px;
+}
+.buzz2 {
+  width: 30.54px;
+}
+.movies-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-3xs);
+  z-index: 0;
+}
+.new2 {
+  position: absolute;
+  margin: 0 !important;
+  top: 4px;
+  left: 554px;
+  font-size: var(--font-size-5xs);
+  font-weight: 500;
+  color: var(--color-crimson-200);
+  z-index: 1;
+}
+.frame-parent15 {
+  background-color: var(--color-gray-200);
+  width: 1280px;
+  height: 42px;
+  flex-shrink: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-sm) var(--padding-2xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.john-wick-chapter-4-et00311714-icon {
+  position: relative;
+  border-radius: var(--br-base) var(--br-base) 0 0;
+  width: 261px;
+  height: 392px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.john-wick-chapter4 {
+  position: relative;
+  font-size: var(--font-size-17xl);
+  line-height: 42px;
+}
+.svg-icon21 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.b,
+.k-votes {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 30px;
+}
+.k-votes {
+  font-size: var(--font-size-base);
+  line-height: 24px;
+}
+.vector-icon1,
+.vector-icon2 {
+  position: relative;
+  width: 17.65px;
+  height: 17.16px;
+  flex-shrink: 0;
+}
+.vector-icon2 {
+  margin-top: -2px;
+}
+.svg {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divstyles-stats-sc-ec6ph5-1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-6xs);
+  font-size: var(--font-size-5xl);
+}
+.add-your-rating,
+.your-ratings-matter {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 24px;
+}
+.add-your-rating {
+  font-weight: 500;
+}
+.your-ratings-matter {
+  font-size: var(--font-size-base);
+  color: #ccc;
+}
+.divstyles-reviewtextcontaine {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.buttoncommoncontainers-butto,
+.divstyles-addratingcomponent {
+  border-radius: var(--br-5xs);
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.buttoncommoncontainers-butto {
+  background-color: var(--color-white);
+  padding: var(--padding-5xs) 11.34375px var(--padding-5xs) var(--padding-xs);
+  align-items: flex-start;
+  text-align: center;
+  color: var(--color-darkslategray);
+}
+.divstyles-addratingcomponent {
+  background-color: var(--color-darkslategray);
+  padding: var(--padding-xs) 24px;
+  align-items: center;
+  gap: 96.66px;
+  font-size: var(--font-size-lg);
+}
+.d {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 24px;
+  color: inherit;
+  text-decoration: none;
+}
+.divstyles-linkedelementscont {
+  border-radius: var(--br-11xs);
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-11xs) var(--padding-5xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.english {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 24px;
+}
+.divstyles-eventattributescon {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xs);
+  color: var(--color-black);
+}
+.divstyles-eventattributescon1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.divstyles-addratingcomponent-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.divstyles-ctatext-sc-1vmod7e {
+  overflow: hidden;
+  flex-direction: row;
+  padding: 13px 61.609375px var(--padding-xs) 61.390625px;
+}
+.buttoncommoncontainers-butto1,
+.divstyles-ctatext-sc-1vmod7e,
+.john-wick-chapter-4-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.buttoncommoncontainers-butto1 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-crimson-100);
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.16);
+  border: 1px solid var(--color-crimson-100);
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-12xs);
+  text-align: center;
+}
+.john-wick-chapter-4-parent {
+  flex-direction: column;
+  gap: 24px;
+}
+.divstyles-bannerwrapper-sc-q,
+.john-wick-chapter-4-et00311714-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.john-wick-chapter-4-et00311714-parent {
+  gap: var(--gap-21xl);
+}
+.divstyles-bannerwrapper-sc-q {
+  width: 1280px;
+  height: 480px;
+  flex-shrink: 0;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  background-image: url(./public/divstyles--bannerwrapperscqswwm91@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-size: var(--font-size-base);
+}
+.about-the-movie,
+.john-wick-keanu {
+  position: relative;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  width: 177.07px;
+  height: 28px;
+  flex-shrink: 0;
+}
+.john-wick-keanu {
+  font-size: var(--font-size-base);
+  letter-spacing: 0.2px;
+  line-height: 24px;
+  color: var(--color-darkslategray);
+  width: 917.26px;
+  height: 67px;
+}
+.about-the-movie-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 19px;
+}
+.top-offers-for {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  width: 195.79px;
+  height: 28px;
+  flex-shrink: 0;
+}
+.bms-stream-first-movie-free-da-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.streaming-movies-for {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 20px;
+  font-weight: 500;
+}
+.h5styles-title-sc-79px82-4 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-0) 133px var(--padding-0) var(--padding-0);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.watch-online-limited {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 20px;
+}
+.h6styles-subtitle-sc-79px82- {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-11xs) 155px var(--padding-0) var(--padding-0);
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray);
+}
+.divstyles-details-sc-79px82- {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-blanchedalmond);
+  flex-direction: column;
+}
+.divstyles-details-sc-79px82-,
+.divstyles-flatreactcomponent,
+.divstyles-flatreactwrapper-s {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divstyles-flatreactwrapper-s {
+  width: 410px;
+  flex-direction: row;
+  gap: var(--gap-3xs);
+}
+.divstyles-flatreactcomponent {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-blanchedalmond);
+  flex-direction: column;
+  padding: var(--padding-3xl) var(--padding-lg);
+}
+.h5styles-title-sc-79px82-41,
+.h6styles-subtitle-sc-79px82-1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-0) 157px var(--padding-0) var(--padding-0);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.h6styles-subtitle-sc-79px82-1 {
+  padding: var(--padding-11xs) 178px var(--padding-0) var(--padding-0);
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray);
+}
+.filmy-pass-rs-75-off-on-movi-parent {
+  flex-direction: row;
+  gap: var(--gap-3xs);
+}
+.divstyles-list-sc-tesakv-1,
+.filmy-pass-rs-75-off-on-movi-parent,
+.top-offers-for-you-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divstyles-list-sc-tesakv-1 {
+  overflow: hidden;
+  flex-direction: row;
+  gap: 33px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray);
+}
+.top-offers-for-you-parent {
+  flex-direction: column;
+  gap: var(--gap-xl);
+}
+.cast {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  width: 50.03px;
+  height: 28px;
+  flex-shrink: 0;
+}
+.keanu-reeves-1178-24-03-2017-1-icon {
+  position: relative;
+  border-radius: var(--br-41xl);
+  width: 120px;
+  height: 120px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.as-john-wick {
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.2px;
+  line-height: 20px;
+  color: var(--color-dimgray);
+}
+.keanu-reeves-1178-24-03-2017-1-parent,
+.keanu-reeves-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.keanu-reeves-1178-24-03-2017-1-parent {
+  gap: var(--gap-5xs);
+}
+.as-marquis-de,
+.laurence-fishburne {
+  position: relative;
+  letter-spacing: 0.2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.as-marquis-de {
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  color: var(--color-dimgray);
+  width: 90.67px;
+}
+.laurence-fishburne {
+  line-height: 24px;
+  width: 72.36px;
+}
+.frame-parent16,
+.hiroyuki-sanada-823-24-03-2017-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.frame-parent16 {
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-13xl);
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.crew {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  width: 55.86px;
+  height: 28px;
+  flex-shrink: 0;
+}
+.frame-parent17 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.divstyles-synopsislistingcon {
+  align-self: stretch;
+  flex: 1;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 34px var(--padding-0);
+  align-items: center;
+  justify-content: center;
+  gap: 65px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.frame-child2 {
+  position: relative;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 417px;
+  height: 1px;
+  flex-shrink: 0;
+}
+.line-container,
+.logosvg2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.logosvg2 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  padding: var(--padding-9xs) var(--padding-xl);
+  align-items: flex-start;
+}
+.line-container {
+  align-items: center;
+  gap: var(--gap-base);
+}
+.svg-icon22 {
+  position: relative;
+  width: 37px;
+  height: 37px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.copyright-20232 {
+  margin: 0;
+}
+.copyright-2023-container5 {
+  line-break: anywhere;
+  width: 100%;
+}
+.copyright-2023-container4 {
+  position: relative;
+  font-size: var(--font-size-2xs);
+  color: var(--color-dimgray);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  width: 971px;
+}
+.frame-parent18 {
+  align-self: stretch;
+  border: 1px solid var(--color-black);
+  padding: var(--padding-xl) var(--padding-0);
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  color: var(--color-black);
+}
+.frame-parent13,
+.frame-parent18,
+.macbook-air-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.frame-parent13 {
+  height: 1904px;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  gap: var(--gap-41xl);
+}
+.macbook-air-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  overflow: hidden;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
